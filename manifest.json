@@ -1,0 +1,30 @@
+{
+   "author": "Muxu•Muxu",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "images/icon48.png"
+      },
+      "default_title": "Open Papier"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Open a new tab and trap your best thoughts.",
+   "homepage_url": "https://muxumuxu.com/",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApoPPaN+QU62yF2rkCRZaeyYVrW+LfITyIFNgYOHDj2Oif6OYep3F2az/q9Rei76GDUkjoj4CgrREVE7y5sAz+/NJnyLGRlLH6mjpLtWDiNmcqXlLYVlW2rE3FcELk6y67esRW3d+I40QIVnn4k2w0/qpQbRLI1R/EaV6gZixBhOA9HSXsqTjMPO6HgOt5Au1++KHvOxSiUWaQgunJ9pRHywgqubRF1s0zCa2sVgIUAA3U4ijR0Nizf+fj4foQrQ+54U3n7KEhRbB9HqRlH2julPjIbQE+1Mi+H+bJ8dUWwC4W3PtqRUP4ZfRKayOp20RGIZ8bdcqWDRVOQnwbUcgTQIDAQAB",
+   "manifest_version": 2,
+   "name": "Papier",
+   "offline_enabled": true,
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.1"
+}
