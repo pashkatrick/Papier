@@ -1,5 +1,5 @@
 # ![logo](https://papier.app/images/papier-logo.svg) 
-Replica of official non-supported https://papier.app/  
+Replica of official non-supported https://papier.app/ about notes in browser
 ex: https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia?hl=en 
 
 # Get Started
